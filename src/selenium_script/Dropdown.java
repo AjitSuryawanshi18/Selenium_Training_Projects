@@ -32,6 +32,7 @@ public class Dropdown {
 		dropdown.selectByVisibleText("BMW");
         Thread.sleep(2000);
 
+        driver.quit();
 	}
 
 }

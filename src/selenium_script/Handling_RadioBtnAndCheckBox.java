@@ -46,6 +46,9 @@ public class Handling_RadioBtnAndCheckBox {
        
        Thread.sleep(3000);
        
+       
+       driver.quit();
+       
 	}
 
 }

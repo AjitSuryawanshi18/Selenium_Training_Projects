@@ -34,7 +34,7 @@ public class DragAndDrop {
               .moveToElement(webelement1).pause(Duration.ofSeconds(2))
               .release().build().perform();
         
-        
+        driver.quit();
 	}
 
 }

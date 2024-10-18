@@ -48,5 +48,7 @@ public class DatePicker {
         }
         
         }
+        
+        driver.quit();
 	}
 }
